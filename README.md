@@ -10,6 +10,6 @@ Welcome to my GitHub profile!
 
 ## Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiaa-santos=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiaa-santos&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaa-santos=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiaa-santos&hide_progress=true)
