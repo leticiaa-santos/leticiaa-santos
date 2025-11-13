@@ -8,3 +8,8 @@ Welcome to my GitHub profile!
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,django,fastapi,figma,flutter,mysql,postman,py,react,sass)](https://skillicons.dev)
 
+## Statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?leticiaa-santos=anuraghazra&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?leticiaa-santos=anuraghazra&hide_progress=true)
